@@ -82,11 +82,9 @@ Various insights are extracted through aggregation and statistical analysis to p
 
 ## Machine Learning Model Explanation
 
-### Random Forest Regressor
-The Random Forest Regressor is used to predict the time required to resolve new tickets based on historical data. This model considers features such as original estimates and time spent in the past to make predictions.
+### Random Forest and Linear Regressor 
+The Random Forest Regressor and Linear Regressor are used to predict the time required to resolve new tickets based on historical data. This model considers features such as original estimates and time spent in the past to make predictions.
 
-### Classification for Ticket Priority
-A classification model is trained to predict the priority of tickets, helping to identify urgent issues based on historical trends.
 
 ## Concluding Remarks
 This repository is a comprehensive tool for project time tracking, analysis, and prediction in a software development environment. The use of machine learning enhances the ability to predict ticket resolution times and classify issues based on urgency, which can significantly improve project management and resource allocation.
