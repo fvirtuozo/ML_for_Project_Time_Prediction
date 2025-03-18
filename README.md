@@ -1,5 +1,7 @@
 #README - Project Overview and Code Explanation
+
 ##Project Description
+
 This repository contains a series of Python scripts used to process, analyze, and generate insights from Jira and Asist ticketing system data. The goal is to evaluate the efficiency of software development projects, particularly focusing on time management and issue tracking. The project includes data wrangling, exploration, machine learning, and report generation tasks.
 
 #Data Sources
